@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Mercado Livre BR
 - 🌱 I’m currently learning  <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
        <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
-- 💬 Ask me about ...
 - 😄 Pronouns: Ela, Ella, She
 - ⚡ Fun fact: Love Animes and Rock 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/karina-fukuda/" target="_blank">
