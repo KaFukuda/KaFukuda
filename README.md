@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mercado Livre BR
+- 🔭 I’m currently working on Mercado Livre BR <br/><br/>
 - 🌱 I’m currently learning  <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
-       <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
-- 😄 Pronouns: Ela, Ella, She
-- ⚡ Fun fact: Love Animes and Rock 
+       <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/><br/><br/>
+- 😄 Pronouns: Ela, Ella, She <br/><br/>
+- ⚡ Fun fact: Love Animes and Rock <br/><br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/karina-fukuda/" target="_blank">
        <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
