@@ -11,6 +11,6 @@
 
   
 <div align="left"> 
-    <!--<img height="160em"  src="https://github-readme-stats.vercel.app/api?username=kafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> -->
-   <img height="160em" right="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
+    <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=kafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> 
+   <!--<img height="160em" right="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>-->
  </div>
